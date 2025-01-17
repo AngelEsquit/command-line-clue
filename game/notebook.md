@@ -8,7 +8,7 @@
 ## Weapons
 - [x] Brass Candlestick
 - [ ] Kitchen Knife
-- [ ] Letter Opener
+- [x] Letter Opener
 
 ## Notes
 Detective's Initial Report:
@@ -37,6 +37,16 @@ Remember that you can use multiple '../' to go up multiple levels:
 - 'cd ../..' goes up two levels
 - and so on...
 
+
+New Clue:
+
+Something tells me we should go back and check somewhere else in the town hall.
+
+Hint: You'll need to go back several directories to reach this location.
+Remember that you can use multiple '../' to go up multiple levels:
+- 'cd ..'    goes up one level
+- 'cd ../..' goes up two levels
+- and so on...
 
 
 *Use this space to record your findings and deductions...*
