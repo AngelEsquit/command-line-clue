@@ -3,7 +3,7 @@
 ## Suspects
 - [ ] The Tailor
 - [ ] The Clockmaker
-- [ ] The Teacher
+- [x] The Teacher
 
 ## Weapons
 - [x] Brass Candlestick
@@ -14,6 +14,20 @@
 Detective's Initial Report:
 
 I overheard The Shopkeeper mentioning something strange they noticed near the library.
+
+
+New Clue:
+
+Check the dock in the park.
+
+Hint: You'll need to go back several directories to reach this location.
+Remember that you can use multiple '../' to go up multiple levels:
+- 'cd ..'    goes up one level
+- 'cd ../..' goes up two levels
+- and so on...
+
+
+
 *Use this space to record your findings and deductions...*
 
 Location of the crime is still unknown - the room must have been empty when it happened...
