@@ -2,7 +2,7 @@
 
 ## Suspects
 - [ ] The Tailor
-- [ ] The Clockmaker
+- [x] The Clockmaker
 - [x] The Teacher
 
 ## Weapons
@@ -19,6 +19,17 @@ I overheard The Shopkeeper mentioning something strange they noticed near the li
 New Clue:
 
 Check the dock in the park.
+
+Hint: You'll need to go back several directories to reach this location.
+Remember that you can use multiple '../' to go up multiple levels:
+- 'cd ..'    goes up one level
+- 'cd ../..' goes up two levels
+- and so on...
+
+
+New Clue:
+
+Check the classrooms in the school.
 
 Hint: You'll need to go back several directories to reach this location.
 Remember that you can use multiple '../' to go up multiple levels:
