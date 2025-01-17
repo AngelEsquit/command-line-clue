@@ -49,6 +49,14 @@ Remember that you can use multiple '../' to go up multiple levels:
 - and so on...
 
 
+Investigation Update:
+
+Through the window, you spot movement in the direction of the offices.
+
+Remember: Use 'cd "offices"' to follow this lead.
+
+
+
 *Use this space to record your findings and deductions...*
 
 Location of the crime is still unknown - the room must have been empty when it happened...
